@@ -63,19 +63,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Althof05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Althof05&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="languages"/>
-
 <img src="https://streak-stats.demolab.com?user=Althof05&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak"/>
 
+<img src="https://raw.githubusercontent.com/Althof05/Althof05/main/metrics.svg" width="97%" alt="metrics"/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Althof05&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=414868" width="97%" alt="activity graph"/>
-
-</div>
-
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Althof05&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
 
 </div>
 
